@@ -1,0 +1,13 @@
+{
+  "width": 1000,
+  "height": 1000,
+  "zoom": 12,
+  "scale": 2,
+  "center": {
+    "lat": 40.7,
+    "lng": -73.977617
+  },
+  "options": {
+    "key": "YOUR_KEY_HERE"
+  }
+}
