@@ -28,12 +28,16 @@ There's now another option! Use `mapdl`. Why would you need more than the genero
 `mapdl` is available via npm: `# npm install -g @williamg/mapdl`
 
 ## :question: Usage
-
 ```
-map-dl --help
+mapdl <config> [-o map.png]
+
+Download a map
+
+Positionals:
+  config  Path to JSON configuration file                               [string]
+
 Options:
       --version  Show version number                                   [boolean]
-  -c, --config   Config file                                 [string] [required]
   -o, --outfile  Output file location                       [default: "map.png"]
       --help     Show help                                             [boolean]
 ```
