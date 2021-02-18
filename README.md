@@ -1,7 +1,7 @@
 ![mapdl](https://i.imgur.com/US08S5m.png)
 
 # :world_map: mapdl
-`mapdl` lets you download high-resolution static maps from Google featuring pins, paths, and arbitrary styling.
+`mapdl` lets you download high-resolution static maps from Google featuring pins, paths, and arbitrary styling. Here's a [4000x4000 image](https://i.imgur.com/MJyNwha.png) generated with `mapdl`.
 
 Google provides a nice static map API which allows you to download static images of maps, as opposed to the typical interactive widget. However, this API only allows you to download maps with a maximum size of 640x640 (depending on scaling). If you need more than that, they suggest that you:
 
